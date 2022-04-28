@@ -1,0 +1,11 @@
+/mnt/c/Users/tscol/projects/parallel_systems/skeleton_2pc/target/debug/deps/ipc_channel-3e43dd25722289c6.rmeta: /home/tscol/.cargo/registry/src/github.com-1ecc6299db9ec823/ipc-channel-0.14.1/src/lib.rs /home/tscol/.cargo/registry/src/github.com-1ecc6299db9ec823/ipc-channel-0.14.1/src/ipc.rs /home/tscol/.cargo/registry/src/github.com-1ecc6299db9ec823/ipc-channel-0.14.1/src/platform/mod.rs /home/tscol/.cargo/registry/src/github.com-1ecc6299db9ec823/ipc-channel-0.14.1/src/platform/unix/mod.rs /home/tscol/.cargo/registry/src/github.com-1ecc6299db9ec823/ipc-channel-0.14.1/src/router.rs
+
+/mnt/c/Users/tscol/projects/parallel_systems/skeleton_2pc/target/debug/deps/libipc_channel-3e43dd25722289c6.rlib: /home/tscol/.cargo/registry/src/github.com-1ecc6299db9ec823/ipc-channel-0.14.1/src/lib.rs /home/tscol/.cargo/registry/src/github.com-1ecc6299db9ec823/ipc-channel-0.14.1/src/ipc.rs /home/tscol/.cargo/registry/src/github.com-1ecc6299db9ec823/ipc-channel-0.14.1/src/platform/mod.rs /home/tscol/.cargo/registry/src/github.com-1ecc6299db9ec823/ipc-channel-0.14.1/src/platform/unix/mod.rs /home/tscol/.cargo/registry/src/github.com-1ecc6299db9ec823/ipc-channel-0.14.1/src/router.rs
+
+/mnt/c/Users/tscol/projects/parallel_systems/skeleton_2pc/target/debug/deps/ipc_channel-3e43dd25722289c6.d: /home/tscol/.cargo/registry/src/github.com-1ecc6299db9ec823/ipc-channel-0.14.1/src/lib.rs /home/tscol/.cargo/registry/src/github.com-1ecc6299db9ec823/ipc-channel-0.14.1/src/ipc.rs /home/tscol/.cargo/registry/src/github.com-1ecc6299db9ec823/ipc-channel-0.14.1/src/platform/mod.rs /home/tscol/.cargo/registry/src/github.com-1ecc6299db9ec823/ipc-channel-0.14.1/src/platform/unix/mod.rs /home/tscol/.cargo/registry/src/github.com-1ecc6299db9ec823/ipc-channel-0.14.1/src/router.rs
+
+/home/tscol/.cargo/registry/src/github.com-1ecc6299db9ec823/ipc-channel-0.14.1/src/lib.rs:
+/home/tscol/.cargo/registry/src/github.com-1ecc6299db9ec823/ipc-channel-0.14.1/src/ipc.rs:
+/home/tscol/.cargo/registry/src/github.com-1ecc6299db9ec823/ipc-channel-0.14.1/src/platform/mod.rs:
+/home/tscol/.cargo/registry/src/github.com-1ecc6299db9ec823/ipc-channel-0.14.1/src/platform/unix/mod.rs:
+/home/tscol/.cargo/registry/src/github.com-1ecc6299db9ec823/ipc-channel-0.14.1/src/router.rs:
